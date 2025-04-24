@@ -1,0 +1,102 @@
+[
+    {
+      "image": "doctor1.jpg",
+      "name": "Dr. Aisha Rahman",
+      "education": "MBBS, MD (Cardiology)",
+      "speciality": "Cardiology",
+      "experience": "15 years",
+      "registration_number": "BGD123456"
+          },
+    {
+      "image": "doctor2.jpg",
+      "name": "Dr. Rajesh Kumar",
+      "education": "MBBS, MS (Orthopedics)",
+      "speciality": "Orthopedics",
+      "experience": "10 years",
+      "registration_number": "BGD234567"
+          },
+    {
+      "image": "doctor3.jpg",
+      "name": "Dr. Fatima Siddiqui",
+      "education": "MBBS, MD (Pediatrics)",
+      "speciality": "Pediatrics",
+      "experience": "12 years",
+      "registration_number": "BGD345678"
+      
+    },
+    {
+      "image": "doctor4.jpg",
+      "name": "Dr. Hassan Ahmed",
+      "education": "MBBS, DM (Neurology)",
+      "speciality": "Neurology",
+      "experience": "18 years",
+      "registration_number": "BGD456789"
+          },
+    {
+      "image": "doctor5.jpg",
+      "name": "Dr. Maria Khan",
+      "education": "MBBS, MS (Ophthalmology)",
+      "speciality": "Ophthalmology",
+      "experience": "9 years",
+      "registration_number": "BGD567890"
+        },
+    {
+      "image": "doctor6.jpg",
+      "name": "Dr. Arif Chowdhury",
+      "education": "MBBS, MD (Dermatology)",
+      "speciality": "Dermatology",
+      "experience": "11 years",
+      "registration_number": "BGD678901"
+      
+    },
+    {
+      "image": "doctor7.jpg",
+      "name": "Dr. Saba Karim",
+      "education": "MBBS, DM (Endocrinology)",
+      "speciality": "Endocrinology",
+      "experience": "14 years",
+      "registration_number": "BGD789012"
+        },
+    {
+      "image": "doctor8.jpg",
+      "name": "Dr. Mahmud Islam",
+      "education": "MBBS, MS (General Surgery)",
+      "speciality": "General Surgery",
+      "experience": "13 years",
+      "registration_number": "BGD890123"
+          },
+    {
+      "image": "doctor9.jpg",
+      "name": "Dr. Nusrat Jahan",
+      "education": "MBBS, MD (Gynecology)",
+      "speciality": "Gynecology",
+      "experience": "16 years",
+      "registration_number": "BGD901234"
+          },
+    {
+      "image": "doctor10.jpg",
+      "name": "Dr. Imran Hossain",
+      "education": "MBBS, MD (Psychiatry)",
+      "speciality": "Psychiatry",
+      "experience": "17 years",
+      "registration_number": "BGD012345"
+      
+    },
+    {
+      "image": "doctor11.jpg",
+      "name": "Dr. Rafiq Alam",
+      "education": "MBBS, MS (Urology)",
+      "speciality": "Urology",
+      "experience": "8 years",
+      "registration_number": "BGD123987"
+        },
+    {
+      "image": "doctor12.jpg",
+      "name": "Dr. Shireen Akter",
+      "education": "MBBS, MD (Oncology)",
+      "speciality": "Oncology",
+      "experience": "20 years",
+      "registration_number": "BGD456321"
+      
+    }
+  ]
