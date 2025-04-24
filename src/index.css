@@ -2,3 +2,7 @@ header a.active{
     text-decoration: underline;
 }
 
+.main-banner{
+background-image: linear-gradient(to bottom,  lightgray,whitesmoke);
+}
+

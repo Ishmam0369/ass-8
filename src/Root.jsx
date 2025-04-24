@@ -5,8 +5,8 @@ import { NavLink } from 'react-router';
 
 const Root = () => {
     return (
-        <div className='px-24 bg-amber-50'>
-           <header className='py-5 bg-amber-50'>
+        <div className=' bg-amber-50'>
+           <header className='py-5 px-30 bg-amber-50'>
            <div className="navbar ">
   <div className="navbar-start">
     <div className="dropdown">

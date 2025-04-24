@@ -18,9 +18,13 @@ const router = createBrowserRouter([
   {
     path: "/",
     Component:Root,
-    
+    errorElement:<p className='text-center font-bold text-black'>sorry</p>,
     children:[
-    { index: true, Component: Home ,path:`Home`},
+    { index: true,
+      Component: Home ,
+      path:`Home`,
+
+    },
     { path: "Blogs", Component:Blogs },
     { path: "MyBooking", Component:MyBooking }]
   },
